@@ -1,6 +1,6 @@
 # Analysing Stock Market Bubbles with game theory
 
-##Introduction
+## Introduction
 
 Economic bubbles and subsequent bursts have been defining moments for humans
 several times in history. Notable examples include the Dutch Tulip Mania in the 17th
